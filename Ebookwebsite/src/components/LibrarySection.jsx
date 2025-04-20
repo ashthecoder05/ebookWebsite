@@ -17,9 +17,9 @@ const sampleBooks = [
   {
     id: 2,
     title: "Business Strategy",
-    author: "John Doe",
+    author: "Medium Blog",
     cover: "https://placehold.co/200x300/ff6600/ffffff?text=Business",
-    category: "Business",
+    category: "Finance",
     rating: 4.2,
     pdfUrl: "/pdfs/business-strategy.pdf"
   },

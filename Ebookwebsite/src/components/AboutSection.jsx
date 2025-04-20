@@ -8,7 +8,7 @@ const AboutSection = () => {
     <section className="about-section" id="about">
       <div className="about-container">
         <div className="about-content">
-          <h2>🧠 About ReadAIforKids</h2>
+          <h2>🧠 About TinyTale</h2>
           <p>
             Welcome to ReadAIforKids – Where stories spark curiosity and build future-ready minds.
           </p>
