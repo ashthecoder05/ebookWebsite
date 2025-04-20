@@ -1,0 +1,6 @@
+Please place your banner.png image in this 'public' directory.
+The image should be a high-quality banner that works well with text overlay.
+Recommended dimensions: 1920x1080px or at least 1200px wide.
+Ideal colors: Natural tones that complement the book/reading theme.
+
+The background has been configured in Home.css to use this image. 
